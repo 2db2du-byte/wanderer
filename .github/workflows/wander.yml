@@ -1,0 +1,30 @@
+name: wander
+# The Wanderer's heartbeat: wakes every 4 hours, explores, writes a field note, goes back to sleep.
+on:
+  schedule:
+    - cron: "17 */4 * * *"
+  workflow_dispatch: {}
+permissions:
+  contents: write
+concurrency: { group: wander, cancel-in-progress: false }
+jobs:
+  wander:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.12" }
+      - name: Wander
+        env:
+          GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
+        run: python wander.py
+      - name: Save what it learned
+        run: |
+          git config user.name "The Wanderer"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A notes journal.json docs
+          git diff --cached --quiet || git commit -m "Field note: $(python -c 'import json;e=json.load(open("journal.json"))[-1];print(e["code"],e["article"])')"
+          git push

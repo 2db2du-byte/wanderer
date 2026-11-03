@@ -1,0 +1,1055 @@
+{
+ "from_sphere": "2026-10-29 21:40",
+ "subjects": [
+  {
+   "cls": "A",
+   "class_name": "General Works",
+   "code": "AE",
+   "name": "Encyclopedias",
+   "shelf": "strong"
+  },
+  {
+   "cls": "A",
+   "class_name": "General Works",
+   "code": "AG",
+   "name": "Dictionaries & general reference",
+   "shelf": "strong"
+  },
+  {
+   "cls": "A",
+   "class_name": "General Works",
+   "code": "AM",
+   "name": "Museums & collecting",
+   "shelf": "some"
+  },
+  {
+   "cls": "A",
+   "class_name": "General Works",
+   "code": "AP",
+   "name": "Periodicals",
+   "shelf": "some"
+  },
+  {
+   "cls": "A",
+   "class_name": "General Works",
+   "code": "AS",
+   "name": "Academies & learned societies",
+   "shelf": "some"
+  },
+  {
+   "cls": "A",
+   "class_name": "General Works",
+   "code": "AY",
+   "name": "Almanacs & yearbooks",
+   "shelf": "some"
+  },
+  {
+   "cls": "B",
+   "class_name": "Philosophy, Psychology & Religion",
+   "code": "B",
+   "name": "Philosophy (general & history)",
+   "shelf": "strong"
+  },
+  {
+   "cls": "B",
+   "class_name": "Philosophy, Psychology & Religion",
+   "code": "BC",
+   "name": "Logic",
+   "shelf": "strong"
+  },
+  {
+   "cls": "B",
+   "class_name": "Philosophy, Psychology & Religion",
+   "code": "BD",
+   "name": "Metaphysics",
+   "shelf": "strong"
+  },
+  {
+   "cls": "B",
+   "class_name": "Philosophy, Psychology & Religion",
+   "code": "BF",
+   "name": "Psychology",
+   "shelf": "strong"
+  },
+  {
+   "cls": "B",
+   "class_name": "Philosophy, Psychology & Religion",
+   "code": "BH",
+   "name": "Aesthetics",
+   "shelf": "strong"
+  },
+  {
+   "cls": "B",
+   "class_name": "Philosophy, Psychology & Religion",
+   "code": "BJ",
+   "name": "Ethics",
+   "shelf": "strong"
+  },
+  {
+   "cls": "B",
+   "class_name": "Philosophy, Psychology & Religion",
+   "code": "BL",
+   "name": "Religions & mythology",
+   "shelf": "strong"
+  },
+  {
+   "cls": "B",
+   "class_name": "Philosophy, Psychology & Religion",
+   "code": "BM",
+   "name": "Judaism",
+   "shelf": "strong"
+  },
+  {
+   "cls": "B",
+   "class_name": "Philosophy, Psychology & Religion",
+   "code": "BP",
+   "name": "Islam",
+   "shelf": "strong"
+  },
+  {
+   "cls": "B",
+   "class_name": "Philosophy, Psychology & Religion",
+   "code": "BQ",
+   "name": "Buddhism",
+   "shelf": "strong"
+  },
+  {
+   "cls": "B",
+   "class_name": "Philosophy, Psychology & Religion",
+   "code": "BR",
+   "name": "Christianity",
+   "shelf": "strong"
+  },
+  {
+   "cls": "B",
+   "class_name": "Philosophy, Psychology & Religion",
+   "code": "BS",
+   "name": "The Bible",
+   "shelf": "strong"
+  },
+  {
+   "cls": "B",
+   "class_name": "Philosophy, Psychology & Religion",
+   "code": "BT",
+   "name": "Theology",
+   "shelf": "strong"
+  },
+  {
+   "cls": "C",
+   "class_name": "History's Helpers",
+   "code": "CB",
+   "name": "History of civilization",
+   "shelf": "some"
+  },
+  {
+   "cls": "C",
+   "class_name": "History's Helpers",
+   "code": "CC",
+   "name": "Archaeology",
+   "shelf": "some"
+  },
+  {
+   "cls": "C",
+   "class_name": "History's Helpers",
+   "code": "CD",
+   "name": "Archives & diplomatics",
+   "shelf": "missing"
+  },
+  {
+   "cls": "C",
+   "class_name": "History's Helpers",
+   "code": "CE",
+   "name": "Calendars & chronology",
+   "shelf": "some"
+  },
+  {
+   "cls": "C",
+   "class_name": "History's Helpers",
+   "code": "CJ",
+   "name": "Coins (numismatics)",
+   "shelf": "some"
+  },
+  {
+   "cls": "C",
+   "class_name": "History's Helpers",
+   "code": "CR",
+   "name": "Heraldry",
+   "shelf": "missing"
+  },
+  {
+   "cls": "C",
+   "class_name": "History's Helpers",
+   "code": "CS",
+   "name": "Genealogy",
+   "shelf": "strong"
+  },
+  {
+   "cls": "C",
+   "class_name": "History's Helpers",
+   "code": "CT",
+   "name": "Biography",
+   "shelf": "some"
+  },
+  {
+   "cls": "D",
+   "class_name": "World History",
+   "code": "D",
+   "name": "World history (general)",
+   "shelf": "strong"
+  },
+  {
+   "cls": "D",
+   "class_name": "World History",
+   "code": "DA",
+   "name": "Great Britain",
+   "shelf": "some"
+  },
+  {
+   "cls": "D",
+   "class_name": "World History",
+   "code": "DC",
+   "name": "France",
+   "shelf": "strong"
+  },
+  {
+   "cls": "D",
+   "class_name": "World History",
+   "code": "DD",
+   "name": "Germany",
+   "shelf": "strong"
+  },
+  {
+   "cls": "D",
+   "class_name": "World History",
+   "code": "DE",
+   "name": "Ancient Greece & Rome",
+   "shelf": "some"
+  },
+  {
+   "cls": "D",
+   "class_name": "World History",
+   "code": "DK",
+   "name": "Russia & Eastern Europe",
+   "shelf": "some"
+  },
+  {
+   "cls": "D",
+   "class_name": "World History",
+   "code": "DP",
+   "name": "Spain & Portugal",
+   "shelf": "some"
+  },
+  {
+   "cls": "D",
+   "class_name": "World History",
+   "code": "DS",
+   "name": "Asia",
+   "shelf": "strong"
+  },
+  {
+   "cls": "D",
+   "class_name": "World History",
+   "code": "DT",
+   "name": "Africa",
+   "shelf": "strong"
+  },
+  {
+   "cls": "D",
+   "class_name": "World History",
+   "code": "DU",
+   "name": "Oceania & Australia",
+   "shelf": "some"
+  },
+  {
+   "cls": "E",
+   "class_name": "History of the Americas",
+   "code": "E",
+   "name": "United States history",
+   "shelf": "strong"
+  },
+  {
+   "cls": "E",
+   "class_name": "History of the Americas",
+   "code": "F",
+   "name": "US local history, Canada & Latin America",
+   "shelf": "some"
+  },
+  {
+   "cls": "G",
+   "class_name": "Geography, Anthropology & Recreation",
+   "code": "G",
+   "name": "Geography & travel",
+   "shelf": "strong"
+  },
+  {
+   "cls": "G",
+   "class_name": "Geography, Anthropology & Recreation",
+   "code": "GA",
+   "name": "Mathematical geography & cartography",
+   "shelf": "some"
+  },
+  {
+   "cls": "G",
+   "class_name": "Geography, Anthropology & Recreation",
+   "code": "GB",
+   "name": "Physical geography",
+   "shelf": "strong"
+  },
+  {
+   "cls": "G",
+   "class_name": "Geography, Anthropology & Recreation",
+   "code": "GC",
+   "name": "Oceanography",
+   "shelf": "some"
+  },
+  {
+   "cls": "G",
+   "class_name": "Geography, Anthropology & Recreation",
+   "code": "GE",
+   "name": "Environmental sciences",
+   "shelf": "strong"
+  },
+  {
+   "cls": "G",
+   "class_name": "Geography, Anthropology & Recreation",
+   "code": "GF",
+   "name": "Human ecology",
+   "shelf": "strong"
+  },
+  {
+   "cls": "G",
+   "class_name": "Geography, Anthropology & Recreation",
+   "code": "GN",
+   "name": "Anthropology",
+   "shelf": "strong"
+  },
+  {
+   "cls": "G",
+   "class_name": "Geography, Anthropology & Recreation",
+   "code": "GR",
+   "name": "Folklore",
+   "shelf": "strong"
+  },
+  {
+   "cls": "G",
+   "class_name": "Geography, Anthropology & Recreation",
+   "code": "GT",
+   "name": "Manners & customs",
+   "shelf": "some"
+  },
+  {
+   "cls": "G",
+   "class_name": "Geography, Anthropology & Recreation",
+   "code": "GV",
+   "name": "Recreation, sports & games",
+   "shelf": "strong"
+  },
+  {
+   "cls": "H",
+   "class_name": "Social Sciences",
+   "code": "HA",
+   "name": "Statistics",
+   "shelf": "strong"
+  },
+  {
+   "cls": "H",
+   "class_name": "Social Sciences",
+   "code": "HB",
+   "name": "Economic theory",
+   "shelf": "strong"
+  },
+  {
+   "cls": "H",
+   "class_name": "Social Sciences",
+   "code": "HC",
+   "name": "Economic history & conditions",
+   "shelf": "strong"
+  },
+  {
+   "cls": "H",
+   "class_name": "Social Sciences",
+   "code": "HD",
+   "name": "Industries, labor & management",
+   "shelf": "some"
+  },
+  {
+   "cls": "H",
+   "class_name": "Social Sciences",
+   "code": "HE",
+   "name": "Transportation & communications",
+   "shelf": "some"
+  },
+  {
+   "cls": "H",
+   "class_name": "Social Sciences",
+   "code": "HF",
+   "name": "Commerce, business & accounting",
+   "shelf": "some"
+  },
+  {
+   "cls": "H",
+   "class_name": "Social Sciences",
+   "code": "HG",
+   "name": "Finance & banking",
+   "shelf": "some"
+  },
+  {
+   "cls": "H",
+   "class_name": "Social Sciences",
+   "code": "HJ",
+   "name": "Public finance & taxes",
+   "shelf": "some"
+  },
+  {
+   "cls": "H",
+   "class_name": "Social Sciences",
+   "code": "HM",
+   "name": "Sociology",
+   "shelf": "strong"
+  },
+  {
+   "cls": "H",
+   "class_name": "Social Sciences",
+   "code": "HN",
+   "name": "Social problems & reform",
+   "shelf": "some"
+  },
+  {
+   "cls": "H",
+   "class_name": "Social Sciences",
+   "code": "HQ",
+   "name": "Family, marriage & women",
+   "shelf": "strong"
+  },
+  {
+   "cls": "H",
+   "class_name": "Social Sciences",
+   "code": "HV",
+   "name": "Social work, welfare & criminology",
+   "shelf": "strong"
+  },
+  {
+   "cls": "J",
+   "class_name": "Political Science",
+   "code": "JA",
+   "name": "Political science (general)",
+   "shelf": "strong"
+  },
+  {
+   "cls": "J",
+   "class_name": "Political Science",
+   "code": "JC",
+   "name": "Political theory",
+   "shelf": "strong"
+  },
+  {
+   "cls": "J",
+   "class_name": "Political Science",
+   "code": "JF",
+   "name": "Government systems",
+   "shelf": "strong"
+  },
+  {
+   "cls": "J",
+   "class_name": "Political Science",
+   "code": "JK",
+   "name": "US government",
+   "shelf": "strong"
+  },
+  {
+   "cls": "J",
+   "class_name": "Political Science",
+   "code": "JS",
+   "name": "Local government",
+   "shelf": "some"
+  },
+  {
+   "cls": "J",
+   "class_name": "Political Science",
+   "code": "JV",
+   "name": "Immigration & colonies",
+   "shelf": "some"
+  },
+  {
+   "cls": "J",
+   "class_name": "Political Science",
+   "code": "JZ",
+   "name": "International relations",
+   "shelf": "some"
+  },
+  {
+   "cls": "K",
+   "class_name": "Law",
+   "code": "K",
+   "name": "Law (general & comparative)",
+   "shelf": "strong"
+  },
+  {
+   "cls": "K",
+   "class_name": "Law",
+   "code": "KF",
+   "name": "United States law",
+   "shelf": "strong"
+  },
+  {
+   "cls": "K",
+   "class_name": "Law",
+   "code": "KZ",
+   "name": "International law",
+   "shelf": "some"
+  },
+  {
+   "cls": "L",
+   "class_name": "Education",
+   "code": "LA",
+   "name": "History of education",
+   "shelf": "some"
+  },
+  {
+   "cls": "L",
+   "class_name": "Education",
+   "code": "LB",
+   "name": "Teaching & educational theory",
+   "shelf": "some"
+  },
+  {
+   "cls": "L",
+   "class_name": "Education",
+   "code": "LC",
+   "name": "Special education",
+   "shelf": "some"
+  },
+  {
+   "cls": "L",
+   "class_name": "Education",
+   "code": "LD",
+   "name": "Universities & colleges",
+   "shelf": "some"
+  },
+  {
+   "cls": "M",
+   "class_name": "Music",
+   "code": "M",
+   "name": "Music (scores)",
+   "shelf": "strong"
+  },
+  {
+   "cls": "M",
+   "class_name": "Music",
+   "code": "ML",
+   "name": "Music history & literature",
+   "shelf": "some"
+  },
+  {
+   "cls": "M",
+   "class_name": "Music",
+   "code": "MT",
+   "name": "Music theory & instruction",
+   "shelf": "strong"
+  },
+  {
+   "cls": "N",
+   "class_name": "Fine Arts",
+   "code": "NA",
+   "name": "Architecture",
+   "shelf": "some"
+  },
+  {
+   "cls": "N",
+   "class_name": "Fine Arts",
+   "code": "NB",
+   "name": "Sculpture",
+   "shelf": "missing"
+  },
+  {
+   "cls": "N",
+   "class_name": "Fine Arts",
+   "code": "NC",
+   "name": "Drawing & design",
+   "shelf": "missing"
+  },
+  {
+   "cls": "N",
+   "class_name": "Fine Arts",
+   "code": "ND",
+   "name": "Painting",
+   "shelf": "missing"
+  },
+  {
+   "cls": "N",
+   "class_name": "Fine Arts",
+   "code": "NE",
+   "name": "Printmaking",
+   "shelf": "some"
+  },
+  {
+   "cls": "N",
+   "class_name": "Fine Arts",
+   "code": "NK",
+   "name": "Decorative arts & crafts",
+   "shelf": "some"
+  },
+  {
+   "cls": "N",
+   "class_name": "Fine Arts",
+   "code": "NX",
+   "name": "The arts in general",
+   "shelf": "some"
+  },
+  {
+   "cls": "P",
+   "class_name": "Language & Literature",
+   "code": "P",
+   "name": "Linguistics",
+   "shelf": "strong"
+  },
+  {
+   "cls": "P",
+   "class_name": "Language & Literature",
+   "code": "PA",
+   "name": "Greek & Latin",
+   "shelf": "some"
+  },
+  {
+   "cls": "P",
+   "class_name": "Language & Literature",
+   "code": "PC",
+   "name": "Romance languages (Spanish, French...)",
+   "shelf": "some"
+  },
+  {
+   "cls": "P",
+   "class_name": "Language & Literature",
+   "code": "PD",
+   "name": "Germanic languages",
+   "shelf": "some"
+  },
+  {
+   "cls": "P",
+   "class_name": "Language & Literature",
+   "code": "PE",
+   "name": "English language",
+   "shelf": "strong"
+  },
+  {
+   "cls": "P",
+   "class_name": "Language & Literature",
+   "code": "PG",
+   "name": "Slavic languages",
+   "shelf": "some"
+  },
+  {
+   "cls": "P",
+   "class_name": "Language & Literature",
+   "code": "PJ",
+   "name": "Middle Eastern languages",
+   "shelf": "some"
+  },
+  {
+   "cls": "P",
+   "class_name": "Language & Literature",
+   "code": "PL",
+   "name": "East Asian & African languages",
+   "shelf": "some"
+  },
+  {
+   "cls": "P",
+   "class_name": "Language & Literature",
+   "code": "PN",
+   "name": "Literature, journalism & film (general)",
+   "shelf": "strong"
+  },
+  {
+   "cls": "P",
+   "class_name": "Language & Literature",
+   "code": "PR",
+   "name": "English literature",
+   "shelf": "strong"
+  },
+  {
+   "cls": "P",
+   "class_name": "Language & Literature",
+   "code": "PS",
+   "name": "American literature",
+   "shelf": "some"
+  },
+  {
+   "cls": "Q",
+   "class_name": "Science",
+   "code": "Q",
+   "name": "Science (general)",
+   "shelf": "strong"
+  },
+  {
+   "cls": "Q",
+   "class_name": "Science",
+   "code": "QA",
+   "name": "Mathematics & computer science",
+   "shelf": "strong"
+  },
+  {
+   "cls": "Q",
+   "class_name": "Science",
+   "code": "QB",
+   "name": "Astronomy",
+   "shelf": "strong"
+  },
+  {
+   "cls": "Q",
+   "class_name": "Science",
+   "code": "QC",
+   "name": "Physics",
+   "shelf": "strong"
+  },
+  {
+   "cls": "Q",
+   "class_name": "Science",
+   "code": "QD",
+   "name": "Chemistry",
+   "shelf": "strong"
+  },
+  {
+   "cls": "Q",
+   "class_name": "Science",
+   "code": "QE",
+   "name": "Geology",
+   "shelf": "strong"
+  },
+  {
+   "cls": "Q",
+   "class_name": "Science",
+   "code": "QH",
+   "name": "Biology & natural history",
+   "shelf": "strong"
+  },
+  {
+   "cls": "Q",
+   "class_name": "Science",
+   "code": "QK",
+   "name": "Botany (plants)",
+   "shelf": "strong"
+  },
+  {
+   "cls": "Q",
+   "class_name": "Science",
+   "code": "QL",
+   "name": "Zoology (animals)",
+   "shelf": "strong"
+  },
+  {
+   "cls": "Q",
+   "class_name": "Science",
+   "code": "QM",
+   "name": "Human anatomy",
+   "shelf": "strong"
+  },
+  {
+   "cls": "Q",
+   "class_name": "Science",
+   "code": "QP",
+   "name": "Physiology",
+   "shelf": "strong"
+  },
+  {
+   "cls": "Q",
+   "class_name": "Science",
+   "code": "QR",
+   "name": "Microbiology",
+   "shelf": "strong"
+  },
+  {
+   "cls": "R",
+   "class_name": "Medicine",
+   "code": "R",
+   "name": "Medicine (general)",
+   "shelf": "strong"
+  },
+  {
+   "cls": "R",
+   "class_name": "Medicine",
+   "code": "RA",
+   "name": "Public health",
+   "shelf": "some"
+  },
+  {
+   "cls": "R",
+   "class_name": "Medicine",
+   "code": "RB",
+   "name": "Pathology",
+   "shelf": "strong"
+  },
+  {
+   "cls": "R",
+   "class_name": "Medicine",
+   "code": "RC",
+   "name": "Internal medicine & psychiatry",
+   "shelf": "strong"
+  },
+  {
+   "cls": "R",
+   "class_name": "Medicine",
+   "code": "RD",
+   "name": "Surgery & emergency care",
+   "shelf": "strong"
+  },
+  {
+   "cls": "R",
+   "class_name": "Medicine",
+   "code": "RE",
+   "name": "Eyes (ophthalmology)",
+   "shelf": "some"
+  },
+  {
+   "cls": "R",
+   "class_name": "Medicine",
+   "code": "RG",
+   "name": "Pregnancy & childbirth",
+   "shelf": "some"
+  },
+  {
+   "cls": "R",
+   "class_name": "Medicine",
+   "code": "RJ",
+   "name": "Children's health (pediatrics)",
+   "shelf": "some"
+  },
+  {
+   "cls": "R",
+   "class_name": "Medicine",
+   "code": "RK",
+   "name": "Dentistry",
+   "shelf": "some"
+  },
+  {
+   "cls": "R",
+   "class_name": "Medicine",
+   "code": "RL",
+   "name": "Skin (dermatology)",
+   "shelf": "strong"
+  },
+  {
+   "cls": "R",
+   "class_name": "Medicine",
+   "code": "RM",
+   "name": "Drugs & therapeutics",
+   "shelf": "strong"
+  },
+  {
+   "cls": "R",
+   "class_name": "Medicine",
+   "code": "RS",
+   "name": "Pharmacy",
+   "shelf": "strong"
+  },
+  {
+   "cls": "R",
+   "class_name": "Medicine",
+   "code": "RT",
+   "name": "Nursing",
+   "shelf": "strong"
+  },
+  {
+   "cls": "S",
+   "class_name": "Agriculture",
+   "code": "S",
+   "name": "Agriculture & soils",
+   "shelf": "some"
+  },
+  {
+   "cls": "S",
+   "class_name": "Agriculture",
+   "code": "SB",
+   "name": "Plant culture & gardening",
+   "shelf": "strong"
+  },
+  {
+   "cls": "S",
+   "class_name": "Agriculture",
+   "code": "SD",
+   "name": "Forestry",
+   "shelf": "some"
+  },
+  {
+   "cls": "S",
+   "class_name": "Agriculture",
+   "code": "SF",
+   "name": "Animal husbandry & veterinary medicine",
+   "shelf": "strong"
+  },
+  {
+   "cls": "S",
+   "class_name": "Agriculture",
+   "code": "SH",
+   "name": "Fish culture & fisheries",
+   "shelf": "missing"
+  },
+  {
+   "cls": "S",
+   "class_name": "Agriculture",
+   "code": "SK",
+   "name": "Hunting & wildlife",
+   "shelf": "missing"
+  },
+  {
+   "cls": "T",
+   "class_name": "Technology",
+   "code": "T",
+   "name": "Technology (general)",
+   "shelf": "strong"
+  },
+  {
+   "cls": "T",
+   "class_name": "Technology",
+   "code": "TA",
+   "name": "Engineering & civil engineering",
+   "shelf": "strong"
+  },
+  {
+   "cls": "T",
+   "class_name": "Technology",
+   "code": "TC",
+   "name": "Water & hydraulic engineering",
+   "shelf": "some"
+  },
+  {
+   "cls": "T",
+   "class_name": "Technology",
+   "code": "TD",
+   "name": "Environmental tech, water supply & sanitation",
+   "shelf": "strong"
+  },
+  {
+   "cls": "T",
+   "class_name": "Technology",
+   "code": "TH",
+   "name": "Building construction",
+   "shelf": "strong"
+  },
+  {
+   "cls": "T",
+   "class_name": "Technology",
+   "code": "TJ",
+   "name": "Mechanical engineering & machinery",
+   "shelf": "strong"
+  },
+  {
+   "cls": "T",
+   "class_name": "Technology",
+   "code": "TK",
+   "name": "Electrical engineering, electronics & computers",
+   "shelf": "strong"
+  },
+  {
+   "cls": "T",
+   "class_name": "Technology",
+   "code": "TL",
+   "name": "Motor vehicles, aircraft & spaceflight",
+   "shelf": "strong"
+  },
+  {
+   "cls": "T",
+   "class_name": "Technology",
+   "code": "TN",
+   "name": "Mining & metallurgy",
+   "shelf": "some"
+  },
+  {
+   "cls": "T",
+   "class_name": "Technology",
+   "code": "TP",
+   "name": "Chemical technology",
+   "shelf": "strong"
+  },
+  {
+   "cls": "T",
+   "class_name": "Technology",
+   "code": "TR",
+   "name": "Photography",
+   "shelf": "strong"
+  },
+  {
+   "cls": "T",
+   "class_name": "Technology",
+   "code": "TS",
+   "name": "Manufacturing",
+   "shelf": "some"
+  },
+  {
+   "cls": "T",
+   "class_name": "Technology",
+   "code": "TT",
+   "name": "Handicrafts & trades",
+   "shelf": "some"
+  },
+  {
+   "cls": "T",
+   "class_name": "Technology",
+   "code": "TX",
+   "name": "Home economics & cooking",
+   "shelf": "strong"
+  },
+  {
+   "cls": "U",
+   "class_name": "Military Science",
+   "code": "U",
+   "name": "Military science (general)",
+   "shelf": "strong"
+  },
+  {
+   "cls": "U",
+   "class_name": "Military Science",
+   "code": "UA",
+   "name": "Armies & defense",
+   "shelf": "some"
+  },
+  {
+   "cls": "U",
+   "class_name": "Military Science",
+   "code": "UG",
+   "name": "Military engineering",
+   "shelf": "strong"
+  },
+  {
+   "cls": "U",
+   "class_name": "Military Science",
+   "code": "UH",
+   "name": "Military medicine & other services",
+   "shelf": "strong"
+  },
+  {
+   "cls": "V",
+   "class_name": "Naval Science",
+   "code": "V",
+   "name": "Naval science (general)",
+   "shelf": "some"
+  },
+  {
+   "cls": "V",
+   "class_name": "Naval Science",
+   "code": "VK",
+   "name": "Navigation & seamanship",
+   "shelf": "some"
+  },
+  {
+   "cls": "V",
+   "class_name": "Naval Science",
+   "code": "VM",
+   "name": "Shipbuilding",
+   "shelf": "missing"
+  },
+  {
+   "cls": "Z",
+   "class_name": "Libraries & Information",
+   "code": "Z",
+   "name": "Books, libraries & information science",
+   "shelf": "strong"
+  },
+  {
+   "cls": "Z",
+   "class_name": "Libraries & Information",
+   "code": "ZA",
+   "name": "Information resources",
+   "shelf": "some"
+  }
+ ]
+}
