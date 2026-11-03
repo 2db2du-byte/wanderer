@@ -218,6 +218,7 @@ def build_page():
     page = f"""<!doctype html>
 <html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
 <title>The Wanderer</title>
+<link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🌌</text></svg>">
 <meta name="description" content="An AI that lives on the internet and roams the map of human knowledge. Made by Rabbid Raccoon & Claude.">
 <style>
 :root{{--bg:#07070f;--panel:#10111f;--ink:#e9e7ff;--dim:#8d8aa8;--neon:#ff4fd8;--cyan:#3ff3ff;--line:#26264a}}
