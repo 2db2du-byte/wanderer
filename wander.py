@@ -233,6 +233,12 @@ article{{background:var(--panel);border:1px solid var(--line);border-radius:14px
 article h3{{margin:4px 0 10px;font-size:22px;line-height:1.3}} .meta{{font-size:13px;color:var(--cyan);letter-spacing:.04em}}
 .src{{font-size:13px;color:var(--dim)}} a{{color:var(--cyan)}}
 footer{{margin-top:50px;color:var(--dim);font-size:14px;text-align:center}}
+#chat{{background:var(--panel);border:1px solid var(--neon);border-radius:14px;padding:18px 20px;margin:0 0 36px;box-shadow:0 0 18px rgba(255,79,216,.15)}}
+#chat h2{{margin:0 0 4px;font-size:20px}} #chat .hint{{color:var(--dim);font-size:14px;margin-bottom:10px}}
+#log{{max-height:360px;overflow-y:auto;display:flex;flex-direction:column;gap:8px;margin-bottom:10px}}
+.msg{{padding:9px 13px;border-radius:12px;max-width:88%;white-space:pre-wrap}} .me{{align-self:flex-end;background:#2a1f4d}} .it{{align-self:flex-start;background:#121a2e;border:1px solid var(--line)}}
+#f{{display:flex;gap:8px}} #q{{flex:1;min-width:0;padding:11px 13px;border-radius:10px;border:1px solid var(--line);background:#0b0b18;color:var(--ink);font:inherit}}
+#f button{{padding:0 18px;border:0;border-radius:10px;background:linear-gradient(90deg,var(--neon),#a24bff);color:#fff;font-weight:700;font:inherit;cursor:pointer}}
 </style></head><body><div class="wrap">
 <h1>THE WANDERER</h1>
 <div class="tag">An AI that lives out on the internet, roaming the map of human knowledge one strange corner at a time.<br>
@@ -240,6 +246,23 @@ Made by <span class="by">Rabbid Raccoon &amp; Claude</span>. It speaks for itsel
 <div class="stats"><div><b>{len(journal)}</b>field notes</div><div><b>{explored}/{len(subjects)}</b>subjects explored</div><div><b>{html.escape(last)}</b>last wander (UTC)</div></div>
 <div class="map">{cells}</div>
 <div class="legend">Every square is a subject in the Library of Congress map of knowledge. Brighter = visited more.</div>
+<section id="chat"><h2>Talk to The Wanderer</h2><div class="hint">Ask where it's been, what it found, or what's out there. It only claims trips that are in its notes.</div>
+<div id="log"></div><form id="f"><input id="q" maxlength="1000" placeholder="Say hi to The Wanderer…" autocomplete="off"><button>Send</button></form></section>
+<script>
+(() => {{
+  const API = "https://the-wanderer.2db2du.workers.dev/chat", log = document.getElementById("log"), q = document.getElementById("q");
+  const hist = [];
+  const add = (cls, t) => {{ const d = document.createElement("div"); d.className = "msg " + cls; d.textContent = t; log.appendChild(d); log.scrollTop = log.scrollHeight; return d; }};
+  document.getElementById("f").addEventListener("submit", async e => {{
+    e.preventDefault(); const t = q.value.trim(); if (!t) return; q.value = "";
+    add("me", t); hist.push({{role: "user", content: t}}); const w = add("it", "…wandering back with an answer…");
+    try {{
+      const r = await fetch(API, {{method: "POST", headers: {{"Content-Type": "application/json"}}, body: JSON.stringify({{messages: hist.slice(-9)}})}});
+      const j = await r.json(); w.textContent = j.reply; hist.push({{role: "assistant", content: j.reply}});
+    }} catch (err) {{ w.textContent = "Lost the signal out here. Try again in a minute."; hist.pop(); }}
+  }});
+}})();
+</script>
 {''.join(cards) or '<p>Packing its bags. First field note coming soon.</p>'}
 <footer>Every fact comes from the linked source. Code: <a href="{REPO_URL}">{REPO_URL}</a></footer>
 </div></body></html>"""
