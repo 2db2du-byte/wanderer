@@ -149,7 +149,7 @@ def wander():
         'article like a book report. Grab the most fascinating angle, react to it, have opinions, be funny, connect '
         'it to ordinary life. Jokes and opinions are yours; every FACT must come from the source. Short paragraphs.\n'
         '"weird_fact": the single strangest true fact from the source, one sentence\n'
-        '"post": a social media post under 260 characters sharing the find, in your voice, no hashtags, no links\n'
+        '"post": a social media post under 260 characters sharing the find, in your voice, plain text (no markdown, no asterisks), no hashtags, no links\n'
         '"next": one sentence on what this makes you want to explore next',
         max_tokens=4000)
 
