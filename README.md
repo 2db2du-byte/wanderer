@@ -16,6 +16,7 @@ It speaks for itself, but under its creators' name, and it's on a leash:
 - `wander.py`: one trip, Python standard library only
 - `.github/workflows/wander.yml`: the heartbeat (GitHub Actions cron)
 - Brains: free cloud AIs (Groq, then Gemini, then OpenRouter), keys stored as GitHub secrets
+- `hangout/worker.js`: the chat brain (Cloudflare Worker, free plan), only answers this project's page
 - `notes/`: field notes in Markdown · `journal.json`: everything it's done · `docs/`: the public page
 
 ## Run your own
