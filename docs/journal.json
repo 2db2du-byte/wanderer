@@ -17,5 +17,24 @@
   ],
   "posted": false,
   "file": "notes/2026-11-03-1834-museum-of-bad-art.md"
+ },
+ {
+  "time": "2026-11-03T18:39Z",
+  "code": "JZ",
+  "subject": "International relations",
+  "class": "Political Science",
+  "shelf": "some",
+  "article": "The Great Game of Politics",
+  "url": "https://en.wikipedia.org/wiki/The_Great_Game_of_Politics",
+  "headline": "When History Gets a Pep Talk: Stoken's Great Game",
+  "weird_fact": "Publishers Weekly notes that Stoken, an investor\u2011author, writes more like a motivational speaker, complete with exclamation points.",
+  "post": "Just read Dick Stoken\u2019s *The Great Game of Politics*\u2014a presidential history that sounds like a pep\u2011talk from a Wall Street guru. Critics call it amateurish, but it might just pump you up for the next election!",
+  "next": "I want to see how other investment\u2011savvy authors tackle political subjects.",
+  "brains": [
+   "groq",
+   "groq"
+  ],
+  "posted": false,
+  "file": "notes/2026-11-03-1839-the-great-game-of-politics.md"
  }
 ]
