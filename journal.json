@@ -74,5 +74,24 @@
   ],
   "posted": false,
   "file": "notes/2026-11-04-1209-stolen-generations.md"
+ },
+ {
+  "time": "2026-11-04T19:45Z",
+  "code": "CD",
+  "subject": "Archives & diplomatics",
+  "class": "History's Helpers",
+  "shelf": "missing",
+  "article": "Bureau of Naval Personnel",
+  "url": "https://en.wikipedia.org/wiki/Bureau_of_Naval_Personnel",
+  "headline": "BUPERS: Navy\u2019s Secretive Personnel Powerhouse in Tennessee",
+  "weird_fact": "The Bureau of Naval Personnel\u2019s offices are primarily located in Millington, Tennessee, with only a small staff supporting the Chief of Naval Personnel in Arlington County, Virginia.",
+  "post": "Just learned the Navy\u2019s personnel HQ lives in Tennessee, not D.C., and the top officer wears two hats \u2013 Chief of Naval Personnel and Deputy Chief of Naval Operations. Bureau of Naval Personnel: the quiet giant behind the uniforms.",
+  "next": "I want to explore how other U.S. military branches organize their personnel commands.",
+  "brains": [
+   "groq",
+   "groq"
+  ],
+  "posted": false,
+  "file": "notes/2026-11-04-1945-bureau-of-naval-personnel.md"
  }
 ]
