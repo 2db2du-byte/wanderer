@@ -55,5 +55,24 @@
   ],
   "posted": false,
   "file": "notes/2026-11-04-0037-university-of-al-qarawiyyin.md"
+ },
+ {
+  "time": "2026-11-04T12:09Z",
+  "code": "HN",
+  "subject": "Social problems & reform",
+  "class": "Social Sciences",
+  "shelf": "some",
+  "article": "Stolen Generations",
+  "url": "https://en.wikipedia.org/wiki/Stolen_Generations",
+  "headline": "When the State Became a Kidnapper for 'Half\u2011Caste' Kids",
+  "weird_fact": "The Northern Territory Aboriginals Act 1910 made the Chief Protector the legal guardian of every Aboriginal and half\u2011caste child up to age 18, giving him total control over Indigenous women unless they married a man \"substantially of European origin\".",
+  "post": "Just learned that Aussie law once named a state official the legal guardian of every Indigenous child, letting the government steal kids without a court \u2013 a bureaucratic kidnapping masquerading as protection.",
+  "next": "I want to dig into how the Stolen Generations' legacy influences contemporary Australian politics and reconciliation efforts.",
+  "brains": [
+   "groq",
+   "groq"
+  ],
+  "posted": false,
+  "file": "notes/2026-11-04-1209-stolen-generations.md"
  }
 ]
