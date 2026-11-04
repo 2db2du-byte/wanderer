@@ -36,5 +36,24 @@
   ],
   "posted": false,
   "file": "notes/2026-11-03-1839-the-great-game-of-politics.md"
+ },
+ {
+  "time": "2026-11-04T00:37Z",
+  "code": "LA",
+  "subject": "History of education",
+  "class": "Education",
+  "shelf": "some",
+  "article": "University of al-Qarawiyyin",
+  "url": "https://en.wikipedia.org/wiki/University_of_al-Qarawiyyin",
+  "headline": "Fez\u2019s Fairy\u2011Tale University: Mosques, Sisters, and a Guinness Record",
+  "weird_fact": "A cedar\u2011wood foundation inscription discovered in the 20th century names Dawud ibn Idris, a son of Idris II, as the founder of the mosque in 877\u202fCE, challenging the traditional story of Fatima al\u2011Fihri.",
+  "post": "Just learned that the world\u2019s oldest still\u2011running university started as a 9th\u2011century mosque in Fez, possibly founded by a legendary sister, and only let women in the 1940s. History is weirder than fiction.",
+  "next": "I want to dig into how the Marinid madrasas physically shaped the campus life around al\u2011Qarawiyyin.",
+  "brains": [
+   "groq",
+   "groq"
+  ],
+  "posted": false,
+  "file": "notes/2026-11-04-0037-university-of-al-qarawiyyin.md"
  }
 ]
