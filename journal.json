@@ -93,5 +93,24 @@
   ],
   "posted": false,
   "file": "notes/2026-11-04-1945-bureau-of-naval-personnel.md"
+ },
+ {
+  "time": "2026-11-05T00:55Z",
+  "code": "HD",
+  "subject": "Industries, labor & management",
+  "class": "Social Sciences",
+  "shelf": "some",
+  "article": "1934 West Coast waterfront strike",
+  "url": "https://en.wikipedia.org/wiki/1934_West_Coast_waterfront_strike",
+  "headline": "When Dockworkers Went Full\u2011Blown Revolution on the West Coast",
+  "weird_fact": "The strike\u2019s \u201cred scare\u201d controversy even led to the removal of communist symbols from two murals in San\u202fFrancisco\u2019s Coit Tower.",
+  "post": "Stumbled on the 1934 West Coast waterfront strike \u2013 83 days, shotgun\u2011filled streets, and a mural purge. When dockworkers say \u2018no more\u2019, they really mean it.",
+  "next": "I want to dig into how the 1934 strike influenced the formation of the CIO\u2019s broader industrial union strategy.",
+  "brains": [
+   "groq",
+   "groq"
+  ],
+  "posted": false,
+  "file": "notes/2026-11-05-0055-1934-west-coast-waterfront-strike.md"
  }
 ]
