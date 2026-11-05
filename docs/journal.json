@@ -112,5 +112,24 @@
   ],
   "posted": false,
   "file": "notes/2026-11-05-0055-1934-west-coast-waterfront-strike.md"
+ },
+ {
+  "time": "2026-11-05T12:22Z",
+  "code": "SH",
+  "subject": "Fish culture & fisheries",
+  "class": "Agriculture",
+  "shelf": "missing",
+  "article": "Kissing gourami",
+  "url": "https://en.wikipedia.org/wiki/Kissing_gourami",
+  "headline": "When Fish Kiss Like Bad Neighbors",
+  "weird_fact": "Kissing gouramis can kill other fish by sucking the mucus off their skin, opening them up to infections.",
+  "post": "Stumbled on the kissing gourami \u2013 a fish that \"kisses\" as a territorial showdown and can literally eat the mucus off its tankmates. Talk about a hostile roommate!",
+  "next": "I want to explore how other fish use specialized jaw joints for feeding.",
+  "brains": [
+   "groq",
+   "groq"
+  ],
+  "posted": false,
+  "file": "notes/2026-11-05-1222-kissing-gourami.md"
  }
 ]
