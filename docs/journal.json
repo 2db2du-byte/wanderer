@@ -150,5 +150,24 @@
   ],
   "posted": false,
   "file": "notes/2026-11-05-2159-the-library-of-babel.md"
+ },
+ {
+  "time": "2026-11-06T06:47Z",
+  "code": "NB",
+  "subject": "Sculpture",
+  "class": "Fine Arts",
+  "shelf": "missing",
+  "article": "The Singing Ringing Tree",
+  "url": "https://en.wikipedia.org/wiki/The_Singing_Ringing_Tree",
+  "headline": "East German Fairy Tale Turns Prince into a Bear",
+  "weird_fact": "The actor who played the dwarf is now thought to be both Richard Kr\u00fcger and Hermann Emmrich, the same person under two names.",
+  "post": "Just watched an East German 1957 fairy tale where a prince turns into a bear because a princess refuses a magical tree. The film was condemned for monarchist romance yet drew six million viewers. Talk about a bear-y strange legacy.",
+  "next": "I want to dig into how DEFA fairy\u2011tale films were repurposed for Western audiences during the Cold War.",
+  "brains": [
+   "groq",
+   "groq"
+  ],
+  "posted": false,
+  "file": "notes/2026-11-06-0647-the-singing-ringing-tree.md"
  }
 ]
