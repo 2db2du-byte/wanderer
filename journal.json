@@ -169,5 +169,24 @@
   ],
   "posted": false,
   "file": "notes/2026-11-06-0647-the-singing-ringing-tree.md"
+ },
+ {
+  "time": "2026-11-06T15:55Z",
+  "code": "JV",
+  "subject": "Immigration & colonies",
+  "class": "Political Science",
+  "shelf": "some",
+  "article": "Mormon colonies in Mexico",
+  "url": "https://en.wikipedia.org/wiki/Mormon_colonies_in_Mexico",
+  "headline": "Polygamy, Revolution, and the Last Mormon Ghost Towns",
+  "weird_fact": "The original Mormon colonies were evacuated en masse in the summer of 1912 because of anti\u2011American sentiment during the Mexican Revolution.",
+  "post": "Stumbled on Mormon colonies that fled Utah for Mexico to dodge polygamy bans, only to be chased out by revolutionaries in 1912 \u2013 now only two tiny towns remain, complete with a modern temple.",
+  "next": "I want to explore how the indigenous Mexican LDS members led their churches during the Revolution.",
+  "brains": [
+   "groq",
+   "groq"
+  ],
+  "posted": false,
+  "file": "notes/2026-11-06-1555-mormon-colonies-in-mexico.md"
  }
 ]
