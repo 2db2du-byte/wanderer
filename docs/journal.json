@@ -245,5 +245,24 @@
   ],
   "posted": false,
   "file": "notes/2026-11-07-1454-setun.md"
+ },
+ {
+  "time": "2026-11-07T20:14Z",
+  "code": "RJ",
+  "subject": "Children's health (pediatrics)",
+  "class": "Medicine",
+  "shelf": "some",
+  "article": "Nodding disease",
+  "url": "https://en.wikipedia.org/wiki/Nodding_disease",
+  "headline": "When Food Turns Kids into Nodding Robots",
+  "weird_fact": "No seizures occur when affected individuals are given an unfamiliar or non\u2011traditional food, such as chocolate.",
+  "post": "Discovered a disease where kids start nodding at the sight of food and only stop when handed chocolate \u2013 a terrifying, parasite\u2011linked mystery that still has no cure.",
+  "next": "I want to dig into other parasite\u2011linked neurological disorders to see if any share this food\u2011triggered seizure pattern.",
+  "brains": [
+   "groq",
+   "groq"
+  ],
+  "posted": false,
+  "file": "notes/2026-11-07-2014-nodding-disease.md"
  }
 ]
