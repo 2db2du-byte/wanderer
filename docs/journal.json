@@ -207,5 +207,24 @@
   ],
   "posted": false,
   "file": "notes/2026-11-06-2130-the-almanac-of-american-history.md"
+ },
+ {
+  "time": "2026-11-07T05:58Z",
+  "code": "CJ",
+  "subject": "Coins (numismatics)",
+  "class": "History's Helpers",
+  "shelf": "some",
+  "article": "Choi Mina Sue",
+  "url": "https://en.wikipedia.org/wiki/Choi_Mina_Sue",
+  "headline": "From Sydney Kid to Miss Earth and Reality TV Star",
+  "weird_fact": "Choi Mina Sue served as a judge for the Miss Earth 2024 finale while still being a recent titleholder.",
+  "post": "Just learned that Miss Earth 2022, Choi Mina Sue, went from winning a crown to surviving reality dating drama on Single's Inferno \u2013 and even her friend had to step in to explain the editing tricks.",
+  "next": "I\u2019m curious to explore how other pageant winners have transitioned into reality TV and the public\u2019s reaction.",
+  "brains": [
+   "groq",
+   "groq"
+  ],
+  "posted": false,
+  "file": "notes/2026-11-07-0558-choi-mina-sue.md"
  }
 ]
