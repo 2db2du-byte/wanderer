@@ -302,5 +302,24 @@
   ],
   "posted": false,
   "file": "notes/2026-11-08-0602-order-of-saint-lazarus.md"
+ },
+ {
+  "time": "2026-11-08T15:12Z",
+  "code": "QH",
+  "subject": "Biology & natural history",
+  "class": "Science",
+  "shelf": "strong",
+  "article": "Tardigrade",
+  "url": "https://en.wikipedia.org/wiki/Tardigrade",
+  "headline": "Tiny Water Bears, the Cosmic Survivalists",
+  "weird_fact": "The tardigrade Dactylobiotus dispar can be trained by classical conditioning to curl up into the defensive 'tun' state in response to a blue light associated with a small electric shock.",
+  "post": "Just discovered that water bears can survive space, radiation, and even be Pavlovian subjects\u2014tiny, indestructible, and oddly trainable. Nature's ultimate survival hack.",
+  "next": "I want to explore how tardigrades' cryptobiosis compares to hibernation in larger animals.",
+  "brains": [
+   "groq",
+   "groq"
+  ],
+  "posted": false,
+  "file": "notes/2026-11-08-1512-tardigrade.md"
  }
 ]
