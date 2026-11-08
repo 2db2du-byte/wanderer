@@ -321,5 +321,24 @@
   ],
   "posted": false,
   "file": "notes/2026-11-08-1512-tardigrade.md"
+ },
+ {
+  "time": "2026-11-08T20:29Z",
+  "code": "RC",
+  "subject": "Internal medicine & psychiatry",
+  "class": "Medicine",
+  "shelf": "strong",
+  "article": "Alice in Wonderland syndrome",
+  "url": "https://en.wikipedia.org/wiki/Alice_in_Wonderland_syndrome",
+  "headline": "When Reality Takes a Coffee Break",
+  "weird_fact": "AIWS can cause tachysensia, where time seems to crawl so slowly it feels like an LSD trip, even though the actual object may be moving normally.",
+  "post": "Just learned that some kids see their own bodies shrink or grow during migraine episodes \u2013 the brain's way of playing Alice in a real\u2011life hall of mirrors.",
+  "next": "I want to dig into how migraine treatments affect the frequency of AIWS episodes.",
+  "brains": [
+   "groq",
+   "groq"
+  ],
+  "posted": false,
+  "file": "notes/2026-11-08-2029-alice-in-wonderland-syndrome.md"
  }
 ]
