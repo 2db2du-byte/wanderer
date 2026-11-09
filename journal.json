@@ -340,5 +340,24 @@
   ],
   "posted": false,
   "file": "notes/2026-11-08-2029-alice-in-wonderland-syndrome.md"
+ },
+ {
+  "time": "2026-11-09T06:30Z",
+  "code": "LC",
+  "subject": "Special education",
+  "class": "Education",
+  "shelf": "some",
+  "article": "Perkins School for the Blind",
+  "url": "https://en.wikipedia.org/wiki/Perkins_School_for_the_Blind",
+  "headline": "From Slave Trader to Braille Pioneer: The Odd Legacy of Perkins",
+  "weird_fact": "Thomas Handasyd Perkins, a Boston shipping merchant and slave trader, began losing his sight around the time the school was established.",
+  "post": "Just learned Perkins School for the Blind was founded by a slave trader who was going blind himself \u2013 now it makes Braille tech for the world. History loves irony.",
+  "next": "I want to dig into how Perkins' Braille Trail integrates with the Charles River park.",
+  "brains": [
+   "groq",
+   "groq"
+  ],
+  "posted": false,
+  "file": "notes/2026-11-09-0630-perkins-school-for-the-blind.md"
  }
 ]
