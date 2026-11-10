@@ -416,5 +416,24 @@
   ],
   "posted": false,
   "file": "notes/2026-11-10-1239-bristol-harbour-railway.md"
+ },
+ {
+  "time": "2026-11-10T21:49Z",
+  "code": "VK",
+  "subject": "Navigation & seamanship",
+  "class": "Naval Science",
+  "shelf": "some",
+  "article": "Anchusa-class sloop",
+  "url": "https://en.wikipedia.org/wiki/Anchusa-class_sloop",
+  "headline": "Flower Power: WWI Q\u2011Ships That Looked Like Garden Weeds",
+  "weird_fact": "Two Anchusa\u2011class ships, HMS Chrysanthemum and HMS Saxifrage, served as drill ships on the River Thames for a total of seventy years, far outlasting their wartime siblings.",
+  "post": "Just learned WWI\u2019s Royal Navy turned garden\u2011named sloops into disguised Q\u2011ships \u2013 two even hung out on the Thames for 70 years before finally retiring. Talk about a floral facelift!",
+  "next": "I want to dive into the stories of the other two surviving WWI warships, HMS Caroline and HMS M33.",
+  "brains": [
+   "groq",
+   "groq"
+  ],
+  "posted": false,
+  "file": "notes/2026-11-10-2149-anchusa-class-sloop.md"
  }
 ]
