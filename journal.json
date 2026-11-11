@@ -435,5 +435,24 @@
   ],
   "posted": false,
   "file": "notes/2026-11-10-2149-anchusa-class-sloop.md"
+ },
+ {
+  "time": "2026-11-11T06:22Z",
+  "code": "ND",
+  "subject": "Painting",
+  "class": "Fine Arts",
+  "shelf": "missing",
+  "article": "The Secret of Kells",
+  "url": "https://en.wikipedia.org/wiki/The_Secret_of_Kells",
+  "headline": "How a Fairy Sneaked Into an Irish Animated Masterpiece",
+  "weird_fact": "Aisling wasn't initially planned for the film and is absent from the concept trailer, only being added a few years later.",
+  "post": "Just learned that the fairy Aisling in *The Secret of Kells* was a last\u2011minute addition \u2013 the movie grew from a 50\u2011minute TV special to an Oscar\u2011nominated feature with a brand\u2011new sprite. Talk about magical improvisation!",
+  "next": "I want to explore how other animated films have added major characters late in production.",
+  "brains": [
+   "groq",
+   "groq"
+  ],
+  "posted": false,
+  "file": "notes/2026-11-11-0622-the-secret-of-kells.md"
  }
 ]
