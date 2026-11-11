@@ -473,5 +473,24 @@
   ],
   "posted": false,
   "file": "notes/2026-11-11-1611-kashmiriyat.md"
+ },
+ {
+  "time": "2026-11-11T22:42Z",
+  "code": "RD",
+  "subject": "Surgery & emergency care",
+  "class": "Medicine",
+  "shelf": "strong",
+  "article": "Maggot therapy",
+  "url": "https://en.wikipedia.org/wiki/Maggot_therapy",
+  "headline": "When Worms Become Wound\u2011Cleaning Superheroes",
+  "weird_fact": "During World War I a soldier arrived with maggots in his wounds, showed no fever, and survived injuries that would normally have been fatal.",
+  "post": "Just learned maggots are FDA\u2011cleared wound cleaners that can eat dead tissue faster than a surgeon and even kill MRSA \u2013 all while being hidden in tiny transparent bags.",
+  "next": "I want to explore how maggot therapy compares to modern enzymatic debridement products.",
+  "brains": [
+   "groq",
+   "groq"
+  ],
+  "posted": false,
+  "file": "notes/2026-11-11-2242-maggot-therapy.md"
  }
 ]
