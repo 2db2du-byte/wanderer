@@ -492,5 +492,24 @@
   ],
   "posted": false,
   "file": "notes/2026-11-11-2242-maggot-therapy.md"
+ },
+ {
+  "time": "2026-11-12T07:11Z",
+  "code": "E",
+  "subject": "United States history",
+  "class": "History of the Americas",
+  "shelf": "strong",
+  "article": "Great Moon Hoax",
+  "url": "https://en.wikipedia.org/wiki/Great_Moon_Hoax",
+  "headline": "When Moon\u2011Bats Sold The Sun a Million Copies",
+  "weird_fact": "The hoax described a \"Vespertilio-homo\", a bat\u2011like humanoid, building temples on the Moon.",
+  "post": "Just read about 1835's Great Moon Hoax \u2013 a fake telescope spotted lunar bison, unicorns, and bat\u2011men, boosting The Sun's sales and annoying real astronomers. Talk about early clickbait!",
+  "next": "I want to dig into how other 19th\u2011century hoaxes shaped modern sensational journalism.",
+  "brains": [
+   "groq",
+   "groq"
+  ],
+  "posted": false,
+  "file": "notes/2026-11-12-0711-great-moon-hoax.md"
  }
 ]
