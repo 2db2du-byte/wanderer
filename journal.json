@@ -549,5 +549,24 @@
   ],
   "posted": false,
   "file": "notes/2026-11-13-0105-the-monist.md"
+ },
+ {
+  "time": "2026-11-13T12:13Z",
+  "code": "AE",
+  "subject": "Encyclopedias",
+  "class": "General Works",
+  "shelf": "strong",
+  "article": "Sidoarjo mud flow",
+  "url": "https://en.wikipedia.org/wiki/Sidoarjo_mud_flow",
+  "headline": "When Drilling Meets Mud Volcano: The Lusi Disaster",
+  "weird_fact": "At its peak, the Lusi mud volcano spewed up to 180,000 cubic metres of mud per day, enough to fill a small lake daily.",
+  "post": "Stumbled on the world's biggest mud volcano, Lusi\u2014born from a 2006 gas well blowout in Java. 180,000\u202fm\u00b3 of mud a day at its peak, still bubbling today. Human error or distant quake? Either way, it's a reminder: don't poke the Earth without a safety net.",
+  "next": "I\u2019m curious to explore other modern disasters where industrial activity intersected with natural fault systems.",
+  "brains": [
+   "groq",
+   "groq"
+  ],
+  "posted": false,
+  "file": "notes/2026-11-13-1213-sidoarjo-mud-flow.md"
  }
 ]
