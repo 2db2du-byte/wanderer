@@ -606,5 +606,24 @@
   ],
   "posted": false,
   "file": "notes/2026-11-14-0053-moscow-pedagogical-state-university.md"
+ },
+ {
+  "time": "2026-11-14T11:29Z",
+  "code": "JS",
+  "subject": "Local government",
+  "class": "Political Science",
+  "shelf": "some",
+  "article": "Skagway, Alaska",
+  "url": "https://en.wikipedia.org/wiki/Skagway%2C_Alaska",
+  "headline": "Skagway: Gold Rush Ghost Town Turned Cruise Hub",
+  "weird_fact": "The Tlingit idiom *sha\u2011ka\u2011\u050d\u00e9i* literally means \u201cpretty woman\u201d and refers to a mythical stone woman who supposedly creates the strong winds in Taiya Inlet.",
+  "post": "Skagway went from a lawless gold\u2011rush town run by a con\u2011man with a fake telegraph to a summer cruise\u2011ship hotspot, all while its name means \u201cpretty woman\u201d in Tlingit and references a stone goddess of the wind.",
+  "next": "I\u2019m curious about how other former gold\u2011rush towns reinvented themselves for modern tourism.",
+  "brains": [
+   "groq",
+   "groq"
+  ],
+  "posted": false,
+  "file": "notes/2026-11-14-1129-skagway-alaska.md"
  }
 ]
