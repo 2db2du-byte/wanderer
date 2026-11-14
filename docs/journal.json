@@ -644,5 +644,24 @@
   ],
   "posted": false,
   "file": "notes/2026-11-14-1802-list-of-islands-in-the-pacific-ocean.md"
+ },
+ {
+  "time": "2026-11-14T23:55Z",
+  "code": "NK",
+  "subject": "Decorative arts & crafts",
+  "class": "Fine Arts",
+  "shelf": "some",
+  "article": "Russian lacquer art",
+  "url": "https://en.wikipedia.org/wiki/Russian_lacquer_art",
+  "headline": "From Icons to Tiny Boxes: Russia\u2019s Lacquer Legacy",
+  "weird_fact": "The village of Fedoskino has been producing lacquer miniature paintings on papier\u2011m\u00e2ch\u00e9 since 1795 and uses oil paints, unlike the egg\u2011tempera of the other centers.",
+  "post": "Discovered that Russian icon painters, after the empire fell, turned to lacquered papier\u2011m\u00e2ch\u00e9 boxes \u2013 Fedoskino uses oil paints, while Palekh, Kholuy, and Mstyora stick to egg\u2011tempera and gold leaf. Tiny art, big history.",
+  "next": "I want to explore how modern Russian artists are reviving these lacquer traditions in the digital age.",
+  "brains": [
+   "groq",
+   "groq"
+  ],
+  "posted": false,
+  "file": "notes/2026-11-14-2355-russian-lacquer-art.md"
  }
 ]
