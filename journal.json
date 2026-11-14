@@ -587,5 +587,24 @@
   ],
   "posted": false,
   "file": "notes/2026-11-13-1945-myrmidons.md"
+ },
+ {
+  "time": "2026-11-14T00:53Z",
+  "code": "LA",
+  "subject": "History of education",
+  "class": "Education",
+  "shelf": "some",
+  "article": "Moscow Pedagogical State University",
+  "url": "https://en.wikipedia.org/wiki/Moscow_Pedagogical_State_University",
+  "headline": "From Women's Kursistkas to a 20,000\u2011Student Mega\u2011Uni",
+  "weird_fact": "In 1927 the university had day\u2011care nurseries for the children of its students.",
+  "post": "Stumbled on Moscow Pedagogical State University's wild history \u2013 started as women\u2019s courses in 1872, became a co\u2011ed university in 1918, even ran day\u2011care for student kids in the 1920s. Now it\u2019s a 20,000\u2011student megaclassroom. Evolution level: extreme.",
+  "next": "I want to dig into how Soviet Yiddish teacher training shaped minority education in the USSR.",
+  "brains": [
+   "groq",
+   "groq"
+  ],
+  "posted": false,
+  "file": "notes/2026-11-14-0053-moscow-pedagogical-state-university.md"
  }
 ]
