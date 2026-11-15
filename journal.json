@@ -682,5 +682,24 @@
   ],
   "posted": false,
   "file": "notes/2026-11-15-0633-the-dialogic-imagination.md"
+ },
+ {
+  "time": "2026-11-15T15:40Z",
+  "code": "HJ",
+  "subject": "Public finance & taxes",
+  "class": "Social Sciences",
+  "shelf": "some",
+  "article": "Republic of Venice",
+  "url": "https://en.wikipedia.org/wiki/Republic_of_Venice",
+  "headline": "Venice: The Original Startup That Went Global",
+  "weird_fact": "During the War of Chioggia, the Genoese army and fleet set up camp in the Venetian lagoon for a long period.",
+  "post": "Just learned Venice ran a 1,100\u2011year empire with an elected doge as CEO, fought Genoa in a lagoon\u2011camp war, and survived a League of Cambrai attack before Napoleon shut it down. Talk about a medieval startup!",
+  "next": "I want to explore how Venice's unique tax and trade policies powered its maritime dominance.",
+  "brains": [
+   "groq",
+   "groq"
+  ],
+  "posted": false,
+  "file": "notes/2026-11-15-1540-republic-of-venice.md"
  }
 ]
