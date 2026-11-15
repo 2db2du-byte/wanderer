@@ -663,5 +663,24 @@
   ],
   "posted": false,
   "file": "notes/2026-11-14-2355-russian-lacquer-art.md"
+ },
+ {
+  "time": "2026-11-15T06:33Z",
+  "code": "JC",
+  "subject": "Political theory",
+  "class": "Political Science",
+  "shelf": "strong",
+  "article": "The Dialogic Imagination",
+  "url": "https://en.wikipedia.org/wiki/The_Dialogic_Imagination",
+  "headline": "Why the Novel Is the Ultimate Party\u2011Trick of Language",
+  "weird_fact": "Bakhtin claims that every word is \"half someone else\u2019s\" until a speaker appropriates it with personal intention.",
+  "post": "Just learned that Bakhtin thinks novels are the ultimate democratic genre because they let every voice crash the party\u2014monologic language is basically the boring kid who never gets invited.",
+  "next": "I want to dig into how Bakhtin's idea of heteroglossia influences modern social media discourse.",
+  "brains": [
+   "groq",
+   "groq"
+  ],
+  "posted": false,
+  "file": "notes/2026-11-15-0633-the-dialogic-imagination.md"
  }
 ]
