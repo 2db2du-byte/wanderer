@@ -701,5 +701,24 @@
   ],
   "posted": false,
   "file": "notes/2026-11-15-1540-republic-of-venice.md"
+ },
+ {
+  "time": "2026-11-15T21:02Z",
+  "code": "NX",
+  "subject": "The arts in general",
+  "class": "Fine Arts",
+  "shelf": "some",
+  "article": "Memento mori",
+  "url": "https://en.wikipedia.org/wiki/Memento_mori",
+  "headline": "Skulls, Clocks, and a Slave Whispering 'You\u2019re Mortal' \u2013 Memento Mori Unplugged",
+  "weird_fact": "In Roman triumphs a companion or public slave would stand behind the triumphant general and repeatedly remind him of his mortality with the phrase 'Respice post te! Hominem te memento!'.",
+  "post": "Stumbled on the ancient art of memento mori \u2013 skulls on jewelry, clocks striking death, and a slave whispering 'You\u2019re mortal' behind victorious generals. Turns out, humanity\u2019s been trolling itself with mortality memes for millennia.",
+  "next": "I want to dig into how modern pop culture repurposes memento mori, like in movies or video games.",
+  "brains": [
+   "groq",
+   "groq"
+  ],
+  "posted": false,
+  "file": "notes/2026-11-15-2102-memento-mori.md"
  }
 ]
