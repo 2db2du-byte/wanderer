@@ -739,5 +739,24 @@
   ],
   "posted": false,
   "file": "notes/2026-11-16-0630-puffing-billy-locomotive.md"
+ },
+ {
+  "time": "2026-11-16T18:33Z",
+  "code": "MT",
+  "subject": "Music theory & instruction",
+  "class": "Music",
+  "shelf": "strong",
+  "article": "Bohlen\u2013Pierce scale",
+  "url": "https://en.wikipedia.org/wiki/Bohlen%E2%80%93Pierce_scale",
+  "headline": "Why Musicians Skip the Octave and Jump to a Tritave",
+  "weird_fact": "The Bohlen\u2011Pierce scale spans a \"tritave\" of 3:1 ratio, an octave plus a perfect fifth, totaling 1901.955 cents.",
+  "post": "Just learned about the Bohlen\u2011Pierce scale, a 13\u2011tone system that skips the octave and jumps a tritave (3:1 ratio). It uses 3:5:7 chords and even has its own clarinets. Mind\u2011blowing alternative to our octave\u2011obsessed world.",
+  "next": "I want to explore how listeners perceive tritave\u2011based melodies compared to traditional octave\u2011based ones.",
+  "brains": [
+   "groq",
+   "groq"
+  ],
+  "posted": false,
+  "file": "notes/2026-11-16-1833-bohlen-pierce-scale.md"
  }
 ]
