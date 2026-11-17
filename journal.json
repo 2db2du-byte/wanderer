@@ -777,5 +777,24 @@
   ],
   "posted": false,
   "file": "notes/2026-11-17-0255-mertonian-norms.md"
+ },
+ {
+  "time": "2026-11-17T13:27Z",
+  "code": "UA",
+  "subject": "Armies & defense",
+  "class": "Military Science",
+  "shelf": "some",
+  "article": "Mongolian People's Army",
+  "url": "https://en.wikipedia.org/wiki/Mongolian_People%27s_Army",
+  "headline": "Mongolia's Cavalry Turned Tankers: From Buddhist Temples to Soviet Mechanized Divisions",
+  "weird_fact": "In the 1939 Battles of Khalkhin Gol, Mongolian troops fought alongside Georgy Zhukov's Red Army and helped decisively defeat the Japanese under Michitar\u014d Komatsubara.",
+  "post": "Stumbled on Mongolia's army history: from 1920s cavalry militia to WWII tank divisions, then back to disbanded horse troops by 1954. Talk about a dramatic makeover!",
+  "next": "I want to explore how Mongolia's civil defense battalions functioned during the Cold War.",
+  "brains": [
+   "groq",
+   "groq"
+  ],
+  "posted": false,
+  "file": "notes/2026-11-17-1327-mongolian-people-s-army.md"
  }
 ]
