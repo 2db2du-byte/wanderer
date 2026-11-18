@@ -834,5 +834,24 @@
   ],
   "posted": false,
   "file": "notes/2026-11-18-0729-himba-people.md"
+ },
+ {
+  "time": "2026-11-18T17:15Z",
+  "code": "PJ",
+  "subject": "Middle Eastern languages",
+  "class": "Language & Literature",
+  "shelf": "some",
+  "article": "Judeo-Arabic",
+  "url": "https://en.wikipedia.org/wiki/Judeo-Arabic",
+  "headline": "When Jews Turned Arabic Into Their Own Secret Sauce",
+  "weird_fact": "A pre\u2011Islamic Jewish Arabic dialect called al\u2011Yah\u016bdiyya existed, blending Arabic with Hebrew and Aramaic lexemes before Islam even began.",
+  "post": "Just learned Judeo\u2011Arabic was a mash\u2011up of Arabic, Hebrew, and Aramaic written in Hebrew script \u2013 the secret linguistic sauce medieval Jewish scholars used to pen Maimonides and others. Fascinating how identity reshapes language.",
+  "next": "I want to explore how other minority groups have repurposed dominant scripts to write their own languages.",
+  "brains": [
+   "groq",
+   "groq"
+  ],
+  "posted": false,
+  "file": "notes/2026-11-18-1715-judeo-arabic.md"
  }
 ]
