@@ -872,5 +872,24 @@
   ],
   "posted": false,
   "file": "notes/2026-11-19-0152-pro-caelio.md"
+ },
+ {
+  "time": "2026-11-19T13:08Z",
+  "code": "CB",
+  "subject": "History of civilization",
+  "class": "History's Helpers",
+  "shelf": "some",
+  "article": "Yam (route)",
+  "url": "https://en.wikipedia.org/wiki/Yam_%28route%29",
+  "headline": "Mongol Yam: The Original Super\u2011Fast Internet",
+  "weird_fact": "The word yam, originally a Mongol term, survived in Russia as a tax\u2011levied courier service with coachmen called yamshchiki and entire suburbs named after them.",
+  "post": "Just learned the Mongols ran a 200\u2011300\u202fkm\u2011a\u2011day relay called the yam \u2013 the OG ultra\u2011fast courier that survived into Russian postal history. Talk about a legacy that outruns empires!",
+  "next": "I\u2019m curious how the yam\u2019s logistics influenced later European postal systems.",
+  "brains": [
+   "groq",
+   "groq"
+  ],
+  "posted": false,
+  "file": "notes/2026-11-19-1308-yam-route.md"
  }
 ]
