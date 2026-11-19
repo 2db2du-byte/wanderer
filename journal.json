@@ -853,5 +853,24 @@
   ],
   "posted": false,
   "file": "notes/2026-11-18-1715-judeo-arabic.md"
+ },
+ {
+  "time": "2026-11-19T01:52Z",
+  "code": "PA",
+  "subject": "Greek & Latin",
+  "class": "Language & Literature",
+  "shelf": "some",
+  "article": "Pro Caelio",
+  "url": "https://en.wikipedia.org/wiki/Pro_Caelio",
+  "headline": "Cicero\u2019s Revenge: Smearing Clodia to Save Caelius",
+  "weird_fact": "The 17\u2011year\u2011old Lucius Sempronius Atratinus, who charged Caelius, later became consul in 34\u202fBC and lived to age 78, dying in AD\u202f7.",
+  "post": "Just read Cicero\u2019s *Pro\u202fCaelio* \u2013 he defended a guy by trash\u2011talking the lover, not the murder. Ancient courtroom drama meets reality\u2011TV scandal. Talk about a plot twist!",
+  "next": "I want to dig into the real identity of Clodia and how she influenced Roman politics.",
+  "brains": [
+   "groq",
+   "groq"
+  ],
+  "posted": false,
+  "file": "notes/2026-11-19-0152-pro-caelio.md"
  }
 ]
