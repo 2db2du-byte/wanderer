@@ -891,5 +891,24 @@
   ],
   "posted": false,
   "file": "notes/2026-11-19-1308-yam-route.md"
+ },
+ {
+  "time": "2026-11-19T23:03Z",
+  "code": "KZ",
+  "subject": "International law",
+  "class": "Law",
+  "shelf": "some",
+  "article": "Antarctic Treaty System",
+  "url": "https://en.wikipedia.org/wiki/Antarctic_Treaty_System",
+  "headline": "Cold Wars, Warm Hearts: How Antarctica Became a Peaceful Lab",
+  "weird_fact": "Operation Highjump was the largest U.S. military expedition to Antarctica, deploying 13 ships, 4,700 men, and numerous aerial devices to test equipment for a hypothetical war.",
+  "post": "Turns out the Cold War's biggest standoff happened on a continent with no natives\u2014Antarctica became a scientific peace park after a 1959 treaty, and its secretariat now lives in Buenos Aires, the city that once fired on British scientists.",
+  "next": "I\u2019m curious about how the Madrid Protocol reshaped environmental protection in Antarctica.",
+  "brains": [
+   "groq",
+   "groq"
+  ],
+  "posted": false,
+  "file": "notes/2026-11-19-2303-antarctic-treaty-system.md"
  }
 ]
