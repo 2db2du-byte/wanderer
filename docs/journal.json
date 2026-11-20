@@ -929,5 +929,24 @@
   ],
   "posted": false,
   "file": "notes/2026-11-20-0716-mongolian-sign-language.md"
+ },
+ {
+  "time": "2026-11-20T16:58Z",
+  "code": "HV",
+  "subject": "Social work, welfare & criminology",
+  "class": "Social Sciences",
+  "shelf": "strong",
+  "article": "Dole plc",
+  "url": "https://en.wikipedia.org/wiki/Dole_plc",
+  "headline": "From Pineapple Empire to Banana Lawsuits: Dole\u2019s Wild Ride",
+  "weird_fact": "In 1922 Dole purchased the Hawaiian island of Lanai and turned it into the largest pineapple plantation in the world.",
+  "post": "Just learned Dole once owned an entire Hawaiian island for pineapple farming, then sold it off, got sued over pesticide payouts, and now lives as an Irish\u2011registered fruit giant. Talk about a juicy corporate saga!",
+  "next": "I want to explore how Dole\u2019s Irish incorporation affects its tax obligations and global supply chain.",
+  "brains": [
+   "groq",
+   "groq"
+  ],
+  "posted": false,
+  "file": "notes/2026-11-20-1658-dole-plc.md"
  }
 ]
