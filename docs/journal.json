@@ -986,5 +986,24 @@
   ],
   "posted": false,
   "file": "notes/2026-11-21-1239-moscow-conservatory.md"
+ },
+ {
+  "time": "2026-11-21T21:39Z",
+  "code": "RK",
+  "subject": "Dentistry",
+  "class": "Medicine",
+  "shelf": "some",
+  "article": "Dental anthropology",
+  "url": "https://en.wikipedia.org/wiki/Dental_anthropology",
+  "headline": "Teeth: The Hard\u2011Core Time Capsules of Human History",
+  "weird_fact": "Dental calculus can reveal ancient DNA and proteins from consumed foods and oral microorganisms.",
+  "post": "Teeth survive everything else, so they\u2019re the ultimate time capsules \u2013 from shovel\u2011shaped incisors that map migrations to plaque that stores ancient DNA. Dental anthropology turns our jaws into history books.",
+  "next": "I want to explore how dental microwear analysis decodes the snack habits of fossil hominins.",
+  "brains": [
+   "groq",
+   "groq"
+  ],
+  "posted": false,
+  "file": "notes/2026-11-21-2139-dental-anthropology.md"
  }
 ]
