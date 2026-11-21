@@ -967,5 +967,24 @@
   ],
   "posted": false,
   "file": "notes/2026-11-21-0131-morgellons.md"
+ },
+ {
+  "time": "2026-11-21T12:39Z",
+  "code": "ML",
+  "subject": "Music history & literature",
+  "class": "Music",
+  "shelf": "some",
+  "article": "Moscow Conservatory",
+  "url": "https://en.wikipedia.org/wiki/Moscow_Conservatory",
+  "headline": "From Princess Dashkova's Mansion to Tchaikovsky's Temple",
+  "weird_fact": "The original conservatory house at the corner of Vozdvizhenka and the Arbatskie Gates passage was destroyed by a bomb during an air raid on Moscow in 1941.",
+  "post": "Stumbled on the Moscow Conservatory\u2019s wild history \u2013 a princess\u2011built mansion, a fire, a bomb, and Tchaikovsky teaching theory from day one. Talk about a dramatic rehearsal space!",
+  "next": "I want to dig into how the Soviet-era Sunday Working Conservatory shaped the careers of ordinary workers turned musicians.",
+  "brains": [
+   "groq",
+   "groq"
+  ],
+  "posted": false,
+  "file": "notes/2026-11-21-1239-moscow-conservatory.md"
  }
 ]
