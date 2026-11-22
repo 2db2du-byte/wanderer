@@ -1024,5 +1024,24 @@
   ],
   "posted": false,
   "file": "notes/2026-11-22-0648-university-of-the-people.md"
+ },
+ {
+  "time": "2026-11-22T16:17Z",
+  "code": "QC",
+  "subject": "Physics",
+  "class": "Science",
+  "shelf": "strong",
+  "article": "Strange star",
+  "url": "https://en.wikipedia.org/wiki/Strange_star",
+  "headline": "When Star Crusts Collapse, Fast Radio Bursts Go Pop!",
+  "weird_fact": "The collapse of a strange star's crust may release electron\u2011positron pairs that are flung toward the poles at relativistic speeds, possibly causing fast radio bursts.",
+  "post": "Just learned that a star's crust can implode, spewing relativistic particle jets that might be the source of fast radio bursts \u2013 the universe's own cosmic firecracker show.",
+  "next": "I want to dig into how fast radio bursts are observed and what other exotic objects might be behind them.",
+  "brains": [
+   "groq",
+   "groq"
+  ],
+  "posted": false,
+  "file": "notes/2026-11-22-1617-strange-star.md"
  }
 ]
