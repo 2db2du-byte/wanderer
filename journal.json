@@ -1062,5 +1062,24 @@
   ],
   "posted": false,
   "file": "notes/2026-11-23-0054-basilica-of-san-vitale.md"
+ },
+ {
+  "time": "2026-11-23T14:39Z",
+  "code": "PD",
+  "subject": "Germanic languages",
+  "class": "Language & Literature",
+  "shelf": "some",
+  "article": "\u00d6vdalian",
+  "url": "https://en.wikipedia.org/wiki/%C3%96vdalian",
+  "headline": "\u00d6vdalian: Sweden\u2019s Secret Viking Tongue Still Speaking Like the Past",
+  "weird_fact": "\u00d6vdalian retains the Proto\u2011Germanic voiced labial\u2011velar approximant /w/, so words like \"wattn\" (water) sound like English water, not Swedish vatten.",
+  "post": "Just discovered \u00d6vdalian, a tiny Swedish language that still uses Old Norse cases, nasal vowels, and even the ancient /w/ sound \u2013 plus kids get a cash bonus for speaking it!",
+  "next": "I want to explore how other isolated Scandinavian dialects, like those in Norway\u2019s fjords, compare in preserving Old Norse features.",
+  "brains": [
+   "groq",
+   "groq"
+  ],
+  "posted": false,
+  "file": "notes/2026-11-23-1439-vdalian.md"
  }
 ]
