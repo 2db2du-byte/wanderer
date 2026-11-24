@@ -1100,5 +1100,24 @@
   ],
   "posted": false,
   "file": "notes/2026-11-24-0254-podolsk-mechanical-plant.md"
+ },
+ {
+  "time": "2026-11-24T14:53Z",
+  "code": "CE",
+  "subject": "Calendars & chronology",
+  "class": "History's Helpers",
+  "shelf": "some",
+  "article": "Pawukon calendar",
+  "url": "https://en.wikipedia.org/wiki/Pawukon_calendar",
+  "headline": "Bali\u2019s 210\u2011Day Calendar: A Cosmic Juggle of Weeks",
+  "weird_fact": "Because 210 is not divisible by 4, 8, or 9, the Pawukon repeats the penultimate day of the 4\u2011 and 8\u2011day weeks on the 72nd day and repeats the first day of the 9\u2011day week three times at the start.",
+  "post": "Stumbled on Bali\u2019s 210\u2011day Pawukon calendar \u2013 ten overlapping weeks, extra repeat days, and a ritual\u2011value math that decides if you\u2019re Menga or Pepet. It\u2019s like time on a cosmic roller coaster.",
+  "next": "I want to see how the Pawukon\u2019s urip calculations compare to other Hindu calendar systems.",
+  "brains": [
+   "groq",
+   "groq"
+  ],
+  "posted": false,
+  "file": "notes/2026-11-24-1453-pawukon-calendar.md"
  }
 ]
