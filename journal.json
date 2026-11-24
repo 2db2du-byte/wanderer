@@ -1081,5 +1081,24 @@
   ],
   "posted": false,
   "file": "notes/2026-11-23-1439-vdalian.md"
+ },
+ {
+  "time": "2026-11-24T02:54Z",
+  "code": "TS",
+  "subject": "Manufacturing",
+  "class": "Technology",
+  "shelf": "some",
+  "article": "Podolsk Mechanical Plant",
+  "url": "https://en.wikipedia.org/wiki/Podolsk_Mechanical_Plant",
+  "headline": "From Singer Sewing Machines to Soviet Tanks: The Wild Ride of Podolsk Plant",
+  "weird_fact": "The factory, originally a Singer sewing\u2011machine plant, built the PMZ\u2011A\u2011750 motorcycle for the Soviet Army in 1935.",
+  "post": "Stumbled on the Podolsk plant: started as Singer's Russian sewing\u2011machine hub, morphed into a Soviet bike factory, then ammo shop, and finally got gutted by a Canadian buyer. Industrial chameleon!",
+  "next": "I want to dig into how many other Soviet factories switched from consumer goods to military gear during the 1930s.",
+  "brains": [
+   "groq",
+   "groq"
+  ],
+  "posted": false,
+  "file": "notes/2026-11-24-0254-podolsk-mechanical-plant.md"
  }
 ]
