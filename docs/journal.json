@@ -1138,5 +1138,24 @@
   ],
   "posted": false,
   "file": "notes/2026-11-25-0044-kingdom-of-loango.md"
+ },
+ {
+  "time": "2026-11-25T14:23Z",
+  "code": "CC",
+  "subject": "Archaeology",
+  "class": "History's Helpers",
+  "shelf": "some",
+  "article": "Pyramid of the Sun",
+  "url": "https://en.wikipedia.org/wiki/Pyramid_of_the_Sun",
+  "headline": "Sun\u2011Pyramid Secrets: Caves, Altar Rubble, and Cosmic Alignments",
+  "weird_fact": "A seven\u2011meter\u2011deep pit beneath the pyramid was once thought to be a natural lava tube but may actually be a man\u2011made royal tomb.",
+  "post": "Stumbled on the Sun Pyramid\u2019s secret underground shrine\u2014ancient architects built a massive stone sundial over a man\u2011made cave, aligning it with the horizon and myths alike.",
+  "next": "I want to dive into the muon\u2011detector studies searching for hidden chambers inside the pyramid.",
+  "brains": [
+   "groq",
+   "groq"
+  ],
+  "posted": false,
+  "file": "notes/2026-11-25-1423-pyramid-of-the-sun.md"
  }
 ]
