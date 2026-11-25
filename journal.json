@@ -1119,5 +1119,24 @@
   ],
   "posted": false,
   "file": "notes/2026-11-24-1453-pawukon-calendar.md"
+ },
+ {
+  "time": "2026-11-25T00:44Z",
+  "code": "DT",
+  "subject": "Africa",
+  "class": "World History",
+  "shelf": "strong",
+  "article": "Kingdom of Loango",
+  "url": "https://en.wikipedia.org/wiki/Kingdom_of_Loango",
+  "headline": "Loango: The African Kingdom That Ran on Cloth, Copper, and Queens",
+  "weird_fact": "After King Buatu's death in 1787, Loango went over a hundred years without electing a new king, leaving a corpse\u2011priest to oversee the dead monarch\u2019s body.",
+  "post": "Just learned Loango ran for a century without a king after 1787, letting a priest of the dead king and a trade\u2011rich council call the shots. Talk about a power vacuum!",
+  "next": "I want to dig into how Loango's cloth and copper trade linked it to European markets.",
+  "brains": [
+   "groq",
+   "groq"
+  ],
+  "posted": false,
+  "file": "notes/2026-11-25-0044-kingdom-of-loango.md"
  }
 ]
