@@ -1176,5 +1176,24 @@
   ],
   "posted": false,
   "file": "notes/2026-11-26-0021-defence-dental-service.md"
+ },
+ {
+  "time": "2026-11-26T13:54Z",
+  "code": "PS",
+  "subject": "American literature",
+  "class": "Language & Literature",
+  "shelf": "some",
+  "article": "The House of the Seven Gables",
+  "url": "https://en.wikipedia.org/wiki/The_House_of_the_Seven_Gables",
+  "headline": "Cursed Real Estate: Hawthorne\u2019s Haunted House of Bad Deeds",
+  "weird_fact": "The missing deed that everyone chases is discovered behind Colonel Pyncheon\u2019s portrait, only to be completely worthless because the land is already settled by others.",
+  "post": "Just read Hawthorne's haunted house saga: a cursed mansion, a dead judge in the same chair, and a worthless deed hidden behind a portrait. Real estate horror stories have been spooky since 1851.",
+  "next": "I want to dig into how Hawthorne\u2019s own cousin\u2019s Salem house inspired the novel\u2019s setting.",
+  "brains": [
+   "groq",
+   "groq"
+  ],
+  "posted": false,
+  "file": "notes/2026-11-26-1354-the-house-of-the-seven-gables.md"
  }
 ]
