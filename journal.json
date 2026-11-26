@@ -1157,5 +1157,24 @@
   ],
   "posted": false,
   "file": "notes/2026-11-25-1423-pyramid-of-the-sun.md"
+ },
+ {
+  "time": "2026-11-26T00:21Z",
+  "code": "UH",
+  "subject": "Military medicine & other services",
+  "class": "Military Science",
+  "shelf": "strong",
+  "article": "Defence Dental Service",
+  "url": "https://en.wikipedia.org/wiki/Defence_Dental_Service",
+  "headline": "When the Army, Navy, and Air Force Share a Toothbrush",
+  "weird_fact": "The three historic dental services, founded between 1920 and 1930, still retain their individual service identities within a single tri\u2011service command.",
+  "post": "Just learned the British Armed Forces have a 9,100\u2011person dental corps that merges Navy, Army and RAF dentists under one roof yet keeps their old uniforms \u2013 talk about a joint operation with floss!",
+  "next": "I want to explore how the UK's military medical services coordinate field hospitals across the globe.",
+  "brains": [
+   "groq",
+   "groq"
+  ],
+  "posted": false,
+  "file": "notes/2026-11-26-0021-defence-dental-service.md"
  }
 ]
