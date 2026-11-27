@@ -1195,5 +1195,24 @@
   ],
   "posted": false,
   "file": "notes/2026-11-26-1354-the-house-of-the-seven-gables.md"
+ },
+ {
+  "time": "2026-11-27T00:35Z",
+  "code": "DA",
+  "subject": "Great Britain",
+  "class": "World History",
+  "shelf": "some",
+  "article": "Bristol Bus Boycott",
+  "url": "https://en.wikipedia.org/wiki/Bristol_Bus_Boycott",
+  "headline": "When Bristol Buses Went on Strike Over Colour Bars",
+  "weird_fact": "A Bristol bus company manager claimed that in London, \u2018coloured men have become arrogant and rude\u2019 after being employed for a few months.",
+  "post": "Stumbled on the 1963 Bristol Bus Boycott \u2013 a four\u2011month protest sparked by a test interview denial that helped push Britain toward its first race\u2011relations laws. Who knew a bus dispute could change the nation?",
+  "next": "I want to dig into how the Bristol boycott directly influenced the drafting of the 1965 Race Relations Act.",
+  "brains": [
+   "groq",
+   "groq"
+  ],
+  "posted": false,
+  "file": "notes/2026-11-27-0035-bristol-bus-boycott.md"
  }
 ]
