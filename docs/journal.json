@@ -1214,5 +1214,24 @@
   ],
   "posted": false,
   "file": "notes/2026-11-27-0035-bristol-bus-boycott.md"
+ },
+ {
+  "time": "2026-11-27T13:52Z",
+  "code": "NK",
+  "subject": "Decorative arts & crafts",
+  "class": "Fine Arts",
+  "shelf": "some",
+  "article": "Kashmir papier-m\u00e2ch\u00e9",
+  "url": "https://en.wikipedia.org/wiki/Kashmir_papier-m%C3%A2ch%C3%A9",
+  "headline": "Paper M\u00e2ch\u00e9 Meets Mughal Magic in Kashmir",
+  "weird_fact": "The traditional papier\u2011m\u00e2ch\u00e9 process includes polishing the finished object with baked brick pieces.",
+  "post": "Just learned that Kashmiri papier\u2011m\u00e2ch\u00e9, brought by a 14th\u2011century Sufi, involves soaking paper for weeks, layering it over wood or brass, then gilding it with gold foil before varnishing with amber \u2013 a true artisanal marathon.",
+  "next": "I want to explore how other Indian handicrafts survived the onslaught of cheap machine production.",
+  "brains": [
+   "groq",
+   "groq"
+  ],
+  "posted": false,
+  "file": "notes/2026-11-27-1352-kashmir-papier-m-ch.md"
  }
 ]
