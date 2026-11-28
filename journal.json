@@ -1252,5 +1252,24 @@
   ],
   "posted": false,
   "file": "notes/2026-11-28-0003-yangon-mandalay-railway.md"
+ },
+ {
+  "time": "2026-11-28T07:50Z",
+  "code": "QR",
+  "subject": "Microbiology",
+  "class": "Science",
+  "shelf": "strong",
+  "article": "Rickettsia",
+  "url": "https://en.wikipedia.org/wiki/Rickettsia",
+  "headline": "Tiny Intruders: Rickettsia, the Bacterial Cousins of Mitochondria",
+  "weird_fact": "In March 2010 Swedish researchers reported a case of bacterial meningitis caused by Rickettsia helvetica, previously thought to be harmless.",
+  "post": "Just learned that Rickettsia are shape\u2011shifting, non\u2011motile bacteria that can\u2019t grow in a dish and are practically mitochondria\u2019s distant cousins \u2013 and one \u2018harmless\u2019 species caused meningitis in Sweden.",
+  "next": "I\u2019m curious to explore how Rickettsia manipulate arthropod reproduction, like inducing parthenogenesis.",
+  "brains": [
+   "groq",
+   "groq"
+  ],
+  "posted": false,
+  "file": "notes/2026-11-28-0750-rickettsia.md"
  }
 ]
